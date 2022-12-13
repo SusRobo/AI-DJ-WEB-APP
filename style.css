@@ -1,0 +1,35 @@
+#hthree
+{
+    font-size: 17px;
+    margin: 0px;
+    width: 100%;
+}
+#div_speed
+{
+    float: left;
+    
+}
+.div_speed_img
+{
+    border-radius: 100px;
+    width: 200px; 
+}
+#div_volume
+{
+    float: right;
+    
+}
+.div_volume_img
+{
+    border-radius: 100px;
+    width: 200px; 
+}
+body
+{
+    background-size:cover;
+}
+canvas
+{
+    border-radius: 10px;
+    border:10px solid white;   
+}
